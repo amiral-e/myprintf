@@ -1,7 +1,7 @@
 # my_printf
 
 ## Description
-Unix System Programming my_printf Epitech teck1
+Unix System Programming | my_printf Epitech teck1
 
 You must recode the printf function from the C library according to the C99 standard. Your function should
 be prototyped like the printf function.
